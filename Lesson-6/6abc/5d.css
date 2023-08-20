@@ -1,0 +1,19 @@
+.title {
+    font-family: arial;
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.s-title {
+    font-family: arial;
+    font-size: 12px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.t-title {
+    font-family: arial;
+    font-size: 8px;
+    color: rgb(43, 123, 173);
+    text-align: center;
+}

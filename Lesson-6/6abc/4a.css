@@ -1,0 +1,13 @@
+.uber {
+    background-color: black;
+    font-family: sans-serif;
+    color: white;
+    height: 40px;
+    padding: 10px 12px;
+    border: none;
+    cursor: pointer;
+    transition: opacity 0.15s;
+}
+.uber:hover {
+    opacity: 0.7;
+}
