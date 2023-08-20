@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+}
+.cat-img {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 50px;
+    margin-right: 5px;
+    vertical-align: middle;
+}
+
+.tweet-bar {
+    border: none;
+    width: 400px;
+    padding: 10px;
+    vertical-align: middle;
+}
+
+.tweet-button {
+    background-color: rgb(29, 161, 242);
+    font-weight: bold;
+    color: white;
+    border-radius: 30px;
+    border: none;
+    padding: 6px 12px;
+    cursor: pointer;
+    vertical-align: middle;
+}
