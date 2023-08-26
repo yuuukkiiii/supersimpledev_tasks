@@ -1,0 +1,37 @@
+.title {
+    margin: 0px;
+    margin-bottom: 20px;
+    font-family: sans-serif;
+    font-size: 40px;
+}
+
+.pickup-input,
+.destination-input {
+    display: block;
+    background-color: #eee;
+    border: none;
+    width: 500px;
+    outline: none;
+    padding: 16px;
+    margin-top: 6px;
+}
+
+.request-btn,
+.schedule-btn {
+    font-family: sans-serif;
+    margin-top: 20px;
+    padding: 15px 32px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.request-btn {
+    color: white;
+    background-color: black;
+    margin-right: 10px;
+}
+.schedule-btn {
+    background-color: #eee;
+    color: black;
+}

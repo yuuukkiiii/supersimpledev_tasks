@@ -1,0 +1,21 @@
+p {
+    font-family: sans-serif;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.card {
+    width: 400px;
+    background-color: rgb(40, 40, 40);
+    padding: 20px 15px;
+    width: 400px;
+}
+.title {
+    font-size: 28px;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 10px;
+}
+.s-title {
+    font-size: 17px;
+    color: #9a9a9a;
+}

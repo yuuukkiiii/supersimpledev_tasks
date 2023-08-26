@@ -1,0 +1,9 @@
+.title {
+    font-family: sans-serif;
+}
+.card {
+    width: 400px;
+    border: 1px solid black;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
