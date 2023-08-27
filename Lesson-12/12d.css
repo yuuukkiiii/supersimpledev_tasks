@@ -1,0 +1,13 @@
+.flex-box {
+    display: flex;
+    height: 50px;
+    border: 1px solid gray;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.one,
+.two {
+    background-color: lightpink;
+}

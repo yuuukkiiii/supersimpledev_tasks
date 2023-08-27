@@ -1,0 +1,14 @@
+.grid {
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px;
+    column-gap: 20px;
+    row-gap: 10px;
+}
+
+.one,
+.two,
+.three,
+.four {
+    background-color: lightpink;
+}
+
