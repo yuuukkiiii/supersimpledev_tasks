@@ -1,0 +1,21 @@
+.flex-box {
+    display: flex;
+    flex-direction: row;
+}
+
+.column {
+    display: flex;
+    padding: 20px;
+    background-color: lightpink;
+    width: 100px;
+    justify-content: center;
+    align-items: center;
+}
+.one {
+    background-color: black;
+    color: white;
+}
+.column2 {
+    background-color: lightblue;
+    width: 200px;
+}

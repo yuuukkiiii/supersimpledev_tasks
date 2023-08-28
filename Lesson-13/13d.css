@@ -1,0 +1,41 @@
+div {
+    font-family: sans-serif;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+    padding: 10px 20px;
+    width: 400px;
+    height: 100px;
+}
+.email-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.email {
+    display: flex;
+    flex-direction: row;
+}
+.header,
+.message,
+.sender-time {
+    color: rgb(100,100,100);
+}
+.header {
+    margin-bottom: 20px;
+}
+.message-sender,
+.message-desc {
+    font-weight: bold;
+}
+.picture {
+    margin-right: 10px;
+}
+.profile-picture {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 50px;
+}
