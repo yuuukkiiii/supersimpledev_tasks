@@ -1,0 +1,69 @@
+body {
+    height: 4000px;
+    font-family: sans-serif;
+}
+
+.left-sidebar {
+    background-color: rgb(25, 25, 25);
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 100px;
+}
+.servers {
+    display: flex;
+    flex-direction: column;
+}
+.one {
+    margin-top: 20px;
+}
+.one,
+.two,
+.three {
+    width: 60px;
+    height: 60px;
+    border-radius: 40px;
+    margin-left: 20px;
+    margin-bottom: 8px;
+    object-fit: cover;
+    cursor: pointer;
+}
+.left-sidebar2 {
+    background-color: rgb(55, 55, 55);
+    position: fixed;
+    left: 100px;
+    top: 0;
+    bottom: 0;
+    width: 250px;
+}
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-txt {
+    color: rgba(255, 255, 255, 0.812);
+    font-weight: bold;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 14px;
+}
+.plus-icon {
+    font-size: 25px;
+    color: rgb(150, 150, 150);
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.channels {
+    font-size: 25px;
+    color: rgb(150, 150, 150);
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    cursor: pointer;
+}
